@@ -10,5 +10,3 @@ Esse é o Trabalho de Conclusão de Curso de Filipe Christovão, aluno formando 
 ***
 
 > **OBS: Por favor, não utilize, altere ou faça qualquer alteração sem altorização do autor. Agradeço desde já. Caso necessário, contate através do e-mail <filipearaujo.rj14@gmail.com>.**
-
-***
